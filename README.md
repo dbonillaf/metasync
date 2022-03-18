@@ -1,7 +1,7 @@
 <img src="/assets/cv_icon.png" align="right" width="128px" />
 
 # David Bonilla's CV
-This repository contains **my professional data**, stored as a [MAC](https://github.com/getmanfred/mac) (or Manfred Awesomic CV), an open-source, interchangeable, machine-readable format. It's also synchronized with [my profile in Manfred](https://dev.getmanfred.com/profile/david).
+This repository contains **my professional data**, stored as a [MAC](/cv/https://github.com/dbonillaf/metasync/blob/main/CV/MAC_david_bonilla.json) (or Manfred Awesomic CV), an open-source, interchangeable, machine-readable format. It's also synchronized with [my profile in Manfred](https://dev.getmanfred.com/profile/david).
 <br/>
 <br/>
 <div align='center'>
