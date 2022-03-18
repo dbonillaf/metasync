@@ -18,8 +18,8 @@ This repository contains **my professional data**, stored as a [MAC](/cv/https:/
 
 -  [Folder Structure](#-folder-structure)
 -  [How you could sync your Manfred profile with your own repo](#-how-you-could-sync-your-manfred-profile-with-your-own-repo)
--  [How to update your CV in Manfred](#%E2%93%9C%EF%B8%8F-how-to-update-your-cv-in-manfred)
--  [How to update your CV in GitHub](#octocat-how-to-update-your-cv-in-github)
+-  [How you could update your CV in Manfred](#%E2%93%9C%EF%B8%8F-how-you-could-update-your-cv-in-manfred)
+-  [How you could update your CV in GitHub](#octocat-how-you-could-update-your-cv-in-github)
 -  [Contact and Troubleshooting](#-contact-and-troubleshooting)
 -  [License](#%EF%B8%8F-license)
 
@@ -54,20 +54,27 @@ The structure of this repo is pretty simple. You have all metadata and config fi
 
 <img alt="https://github.com/apps/manfred-github-connector" src="https://github.com/getmanfred/mac/blob/master/assets/sync/github_manfred_connector.png?raw=true" width="600">
 
-4. You are done! So easy and so powerful.
+4. **You are done!** So easy and so powerful.
 
+## Ⓜ️ How you could update your CV in Manfred
 
-## Ⓜ️ How to update your CV in Manfred
+Just navigate to [your profile](https://getmanfred.com/perfil) and update whatever you want. If you have synchronized your profile with your GitHub repo, **it will be updated automagically with a new version of your MAC**, including the last updates.
 
-TBD
+<img alt="Magic" src="https://media4.giphy.com/media/ujUdrdpX7Ok5W/giphy.gif?cid=ecf05e471avdapgosxv5t0j0kovk1rr4vq59nlnapfuebgph&rid=giphy.gif&ct=g">
 
-## :octocat: How to update your CV in GitHub
+## :octocat: How you could update your CV in GitHub
 
-TBD
+Just edit your MAC in the `/CV` folder in the repository page or directly in your machine, commit and push the changes and [your profile in Manfred]((https://getmanfred.com/perfil)) will be updated too. **If you have configured Manfred to synchronize your data in other platforms, they will be updated too!**
+
+<img alt="WOW" src="https://media2.giphy.com/media/5VKbvrjxpVJCM/giphy.gif?cid=ecf05e47c8d15c29d23b964f4af2e4a2847e6924440855da&rid=giphy.gif&ct=g">
 
 ## 🪠 Contact and Troubleshooting
 
-TBD
+> :warning: Remember that your CV has to be [a valid MAC JSON file](https://github.com/getmanfred/mac) to be synchronized !!!
+
+For example, there are 4 "study types" ("officialDegree", "certification", "unaccredited" and "selfTraining") if you include a new type like "kindergarten", your CV could be a valid JSON file but not a MAC and therefor your data won't be synchronized.
+
+If you have any question, don't hesitate to send an email to [support@getmanfred.com](mailto:support@getmanfred.com), ping us on [Twitter](https://twitter.com/getmanfred) or [fill a support ticket](https://getmanfred.freshdesk.com/). We'd love to help you! 🤓
 
 ## ⚖️ License
 The CVs included in this repository contain my personal and professional data, and they can't be automatically processed without my explicit permission according to the [GDPR](https://gdpr-info.eu/) (General Data Protection Regulation).
