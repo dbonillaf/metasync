@@ -31,15 +31,15 @@ The structure of this repo is pretty simple. You have all metadata and config fi
     .
     │
     ├── CV
-    │    ├── MAC_username[_instance1][_language1].json
+    │    ├── MAC[_instance1][_language1].json
     │    ├── ...  
-    │    └── MAC_username[_instanceN][_languageN].json
+    │    └── MAC[_instanceN][_languageN].json
     │
     ├── assets
     │
     └── ...  
 
-- [/cv](/cv), where you can find multiple versions of my CV (eg. `MAC_david_bonilla.json` or `MAC_david_bonilla_dev_ES.json`)
+- [/cv](/cv), where you can find multiple versions of my CV (eg. `MAC.json` or `MAC_dev_ES.json`)
 - [/assets](/assets), where I store assets related with my CVs (eg. pictures, certifications, etc.)
 
 
