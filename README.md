@@ -1,7 +1,16 @@
 <img src="/assets/cv_icon.png" align="right" width="128px" />
 
 # David Bonilla's CV
-This repository contains **my professional data**, stored as a [MAC](https://github.com/getmanfred/mac) (or Manfred Awesomic CV), an open-source, interchangeable, machine-readable format. It's also synchronized with [my profile in Manfred](https://dev.getmanfred.com/profile/david). 
+This repository contains **my professional data**, stored as a [MAC](https://github.com/getmanfred/mac) (or Manfred Awesomic CV), an open-source, interchangeable, machine-readable format. It's also synchronized with [my profile in Manfred](https://dev.getmanfred.com/profile/david).
+
+<div align='center'>
+  <img src='https://img.shields.io/github/last-commit/dbonillaf/metasync?style=for-the-badge'>
+  <img src='https://img.shields.io/static/v1?label=label&message=message&color=brightgreen'>
+</div>
+
+/github/last-commit/:user/:repo
+?style=for-the-badge&logo=appveyor
+?label=healthinesses
 
 TBD Ultima vez sincronizado
 TBD Version
