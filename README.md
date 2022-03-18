@@ -50,7 +50,7 @@ The structure of this repo is pretty simple. You have all metadata and config fi
 
 <img alt="getmanfred.com" src="https://github.com/getmanfred/mac/blob/master/assets/sync/github_manfred_sync.png?raw=true" width="600">
 
-3. tbd
+3. You will be asked to select one repository to install the [Manfred GitHub Connector App](https://github.com/apps/manfred-github-connector)
 
 
 
