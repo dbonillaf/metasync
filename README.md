@@ -1,4 +1,4 @@
-<img src="cv.png" align="right" width="128px" />
+<img src="/assets/cv_icon.png" align="right" width="128px" />
 
 # David Bonilla's MAC (Manfred Awesomic CV)
 This repository containts the CV of TBD link al repo del MAC
