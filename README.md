@@ -8,16 +8,14 @@ TBD Version
 TBD Lo de que está protegido por RGPD
 
 -  [Folder Structure](#-folder-structure)
--  TBD How to sync your Manfred profile with your repo
--  TBD How to update your CV from Manfred
--  TBD How to update your CV from GitHub
--  License
+-  [How to sync your Manfred profile with your repo](#-how-to-sync-your-manfred-profile-with-your-repo)
+-  [How to update your CV in Manfred](#%E2%93%9C%EF%B8%8F-how-to-update-your-cv-in-manfred)
+-  [How to update your CV in GitHub](#octocat-how-to-update-your-cv-in-github)
+-  [Contact and Troubleshooting](#-contact-and-troubleshooting)
+-  [License](#%EF%B8%8F-license)
 
 ## 📁 Folder Structure
-The structure of this repo is pretty simple. You have all the metadata and config files on the base directory. There, you can find more file and folders but just two are directly related and relevant to my MAC:
-
-- [/CV](/cv), where you can find multiple versions of my CV (eg. `code`)
--
+The structure of this repo is pretty simple. You have all metadata and config files on the base directory. There, you can find more file and folders but just two are directly related and relevant to my MAC, `/cv` and `/assets`:
 
 
 
@@ -31,5 +29,28 @@ The structure of this repo is pretty simple. You have all the metadata and confi
     ├── assets
     │
     └── ...  
-   
+
+- [/cv](/cv), where you can find multiple versions of my CV (eg. `MAC_david_bonilla.json` or `MAC_david_bonilla_dev_ES.json`)
+- [/assets](/assets), where I store assets related with my CVs (eg. pictures, certifications, etc.)
+
+
+## 🔗 How to sync your Manfred profile with your repo
+
+TBD
+
+## Ⓜ️ How to update your CV in Manfred
+
+TBD
+
+## :octocat: How to update your CV in GitHub
+
+TBD
+
+## 🪠 Contact and Troubleshooting
+
+TBD
+
+## ⚖️ License
+The MAC is free and open-source software licensed and distributed under the Creative Commons Attribution Share Alike 4.0 International (CC BY-SA 4.0 International).
+
 
